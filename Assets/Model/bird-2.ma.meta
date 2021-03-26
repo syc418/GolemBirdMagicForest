@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: e396cebb91b23b14c93398a9d6682636
+ModelImporter:
+  serializedVersion: 20101
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: joint1_hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint15_thigh_left
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint14_thigh_right
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint18_calves_left
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint16_calves_right
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint19_feet_left
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint17_feet_right
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint4_neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint13_head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint5_upper_arm_left
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint6_upper_arm_right
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint10_forearm_left
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint7_forearm_right
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint11_wrist_left
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint8_wrist_right
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint3_chest
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: joint2_abdomen
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: bird-2(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: imagePlane1
+      parentName: bird-2(Clone)
+      position: {x: -3.1522415, y: -1.5086601, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint1_hips
+      parentName: bird-2(Clone)
+      position: {x: 0.0061286422, y: 4.697648, z: 0}
+      rotation: {x: -0.7044634, y: 0.7097403, z: 4.3459057e-17, w: -4.3135947e-17}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: joint2_abdomen
+      parentName: joint1_hips
+      position: {x: -1.6425219, y: 1.7347235e-18, z: -8.859278e-33}
+      rotation: {x: -2.587421e-21, y: -6.617445e-24, z: 0.0046012104, w: 0.99998945}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000005}
+    - name: joint3_chest
+      parentName: joint2_abdomen
+      position: {x: -1.0174176, y: 0.0046979734, z: 0.20925216}
+      rotation: {x: 0.999811, y: -0.019440642, z: -1.190448e-18, w: 6.121817e-17}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: joint4_neck
+      parentName: joint3_chest
+      position: {x: -0.55171394, y: 1.963707e-15, z: 0.2124398}
+      rotation: {x: -2.646978e-23, y: 1.3545083e-23, z: -0.009022506, w: 0.9999593}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint13_head
+      parentName: joint4_neck
+      position: {x: -0.6927701, y: 3.4972025e-15, z: 0.0700901}
+      rotation: {x: 2.5656565e-24, y: 1.681169e-24, z: 0.70562965, w: 0.7085808}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint5_upper_arm_left
+      parentName: joint3_chest
+      position: {x: -0.072532065, y: -1.0596837, z: 0.21842152}
+      rotation: {x: 9.926167e-24, y: 1.7577588e-24, z: 0.68613863, w: 0.7274709}
+      scale: {x: 0.9999998, y: 0.9999998, z: 1}
+    - name: joint10_forearm_left
+      parentName: joint5_upper_arm_left
+      position: {x: -1.4632103, y: 0.010746229, z: -4.2176603e-16}
+      rotation: {x: 2.0369135e-23, y: -2.1811868e-23, z: -0.003052622, w: 0.99999535}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: joint11_wrist_left
+      parentName: joint10_forearm_left
+      position: {x: -1.6820847, y: 0.02298994, z: -4.145989e-16}
+      rotation: {x: -6.046776e-26, y: 3.8629837e-23, z: -0.02039544, w: 0.999792}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint12_hand_left
+      parentName: joint11_wrist_left
+      position: {x: -0.2723952, y: -0.0008406066, z: -6.2450045e-17}
+      rotation: {x: 3.697662e-23, y: -5.2191555e-23, z: -0.6688928, w: 0.74335897}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1}
+    - name: joint6_upper_arm_right
+      parentName: joint3_chest
+      position: {x: -0.016158987, y: 0.94093204, z: 0.21842152}
+      rotation: {x: -0.71885985, y: 0.6951551, z: 1.9280595e-16, w: -1.9938069e-16}
+      scale: {x: 1, y: 0.9999998, z: 1}
+    - name: joint7_forearm_right
+      parentName: joint6_upper_arm_right
+      position: {x: -1.593517, y: 0.009001744, z: -2.7278725e-16}
+      rotation: {x: -1.4855899e-18, y: 6.2018694e-20, z: 0.0059880316, w: 0.9999821}
+      scale: {x: 1.0000002, y: 1, z: 1.0000002}
+    - name: joint8_wrist_right
+      parentName: joint7_forearm_right
+      position: {x: -1.5995644, y: 0.0035602865, z: -3.989864e-16}
+      rotation: {x: -1.3913363e-19, y: 4.762589e-21, z: 0.00055329077, w: 0.9999999}
+      scale: {x: 1.0000002, y: 0.99999994, z: 1.0000005}
+    - name: joint9_hand_right
+      parentName: joint8_wrist_right
+      position: {x: -0.28720757, y: 0.008708825, z: -6.071532e-17}
+      rotation: {x: 0.71429724, y: -0.69984245, z: 4.5859032e-17, w: -4.066983e-17}
+      scale: {x: 0.99999994, y: 1, z: 0.9999996}
+    - name: joint14_thigh_right
+      parentName: joint1_hips
+      position: {x: 0.26617548, y: -0.58234584, z: -7.13168e-17}
+      rotation: {x: 0.0026513338, y: -0.9999965, z: -0.0000000074505557, w: 1.9753754e-11}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: joint16_calves_right
+      parentName: joint14_thigh_right
+      position: {x: -1.8911161, y: 0.0039412286, z: 0.06533042}
+      rotation: {x: 0.9999622, y: 0.008697471, z: 9.950375e-15, w: 1.1284308e-12}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: joint17_feet_right
+      parentName: joint16_calves_right
+      position: {x: -2.0217083, y: -0.0000000011593057, z: 0.07779944}
+      rotation: {x: 3.568804e-16, y: 2.2356969e-15, z: -0.99998176, w: 0.006046206}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000007}
+    - name: joint15_thigh_left
+      parentName: joint1_hips
+      position: {x: 0.264988, y: 0.51284665, z: 6.28056e-17}
+      rotation: {x: 0.0061195795, y: -0.9999813, z: -2.8327161e-16, w: 1.7335324e-18}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1}
+    - name: joint18_calves_left
+      parentName: joint15_thigh_left
+      position: {x: -1.9005065, y: -1.6653345e-14, z: 0.06912691}
+      rotation: {x: -8.6223885e-23, y: 7.4446255e-24, z: 0.0098508075, w: 0.99995154}
+      scale: {x: 1, y: 1, z: 1}
+    - name: joint19_feet_left
+      parentName: joint18_calves_left
+      position: {x: -2.0311816, y: -1.1768364e-14, z: -0.07779944}
+      rotation: {x: 0.0037313402, y: 0.9999931, z: -6.1024595e-17, w: -6.1460486e-17}
+      scale: {x: 0.9999998, y: 1.0000001, z: 0.99999976}
+    - name: pCube1
+      parentName: bird-2(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.4635195, y: 3.3097563, z: 0.37468028}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
